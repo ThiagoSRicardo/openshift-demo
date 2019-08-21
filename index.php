@@ -1,1 +1,1 @@
-<?php echo '<p>My App - v3</p>'; ?>
+<?php echo '<p>My App - v1</p>'; ?>
