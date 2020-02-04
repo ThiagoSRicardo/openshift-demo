@@ -1,1 +1,1 @@
-<?php echo '<p>My First Application With Red Hat OpenShift - version 1</p>'; ?>
+<?php echo '<p>My First Application With Red Hat OpenShift - version 2</p>'; ?>
